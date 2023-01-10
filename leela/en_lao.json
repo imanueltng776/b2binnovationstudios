@@ -1,0 +1,74 @@
+[
+	{
+		"word": "A",
+		"result": "ອັນໜຶ່ງ, ຕົວໜຶ່ງ, ຄົນໜຶ່ງ, ພະຍັນຊະນະຕົວທຳອິດຂອງພາສາອັງກິດ",
+		"favorite": false,
+		"id": 1
+	},
+	{
+		"word": "ATM",
+		"result": "Automated teller machine,ຕູ້ເອທີເອັມ, ເຄື່ອງຈັກ (ຕູ້) ຈ່າຍເງີນຢ່າງອັດຕະນຸມັດ",
+		"favorite": false,
+		"id": 2
+	},
+	{
+		"word": "aback",
+		"result": "ເບື້ອງຫຼັງ, ຫຼ້າຫຼັງ, ງົມງວາຍ",
+		"favorite": false,
+		"id": 3
+	},
+	{
+		"word": "abacus",
+		"result": "ລູກຄິດ, ໝາກລູກຄິດ",
+		"favorite": false,
+		"id": 4
+	},
+	{
+		"word": "abandon",
+		"result": "ປະປ່ອຍ, ປະລະ, ບໍ່ຢ້ານຄວາມຕິຕຽນ",
+		"favorite": false,
+		"id": 5
+	},
+	{
+		"word": "abase",
+		"result": "ລົດລົງ, ຖອດຍົດ, ນ້ອມ, ຖ່ອມຕົວ",
+		"favorite": false,
+		"id": 6
+	},
+	{
+		"word": "abasement",
+		"result": "ການຖອດຍົດ, ການຖອຍຕົວລົງ",
+		"favorite": false,
+		"id": 7
+	},
+	{
+		"word": "abash",
+		"result": "ລະອາຍ, ເຮັດໃຫ້ເກີ້ດເຂີນ,ຕົກຂະມ່າ",
+		"favorite": false,
+		"id": 8
+	},
+	{
+		"word": "abashment",
+		"result": "ການເຮັດໃຫ້ລະອາຍ, ການເຮັດໃຫ້ເຂີ້ນ",
+		"favorite": false,
+		"id": 9
+	},
+	{
+		"word": "abate",
+		"result": "ລົດນອຍລົງ, ບັນເທົາລົງ",
+		"favorite": false,
+		"id": 10
+	},
+	{
+		"word": "abatement",
+		"result": "ການເຮັດໃຫ້ມີຄ່າໜ້ອຍ, ຫຼຸດຜ່ອນ",
+		"favorite": false,
+		"id": 11
+	},
+	{
+		"word": "abattoir",
+		"result": "ໂຮງຂ້າສັດ",
+		"favorite": false,
+		"id": 12
+	}
+]
